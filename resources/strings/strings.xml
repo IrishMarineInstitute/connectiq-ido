@@ -1,0 +1,10 @@
+<strings>
+    <string id="AppName">Digital Ocean</string>
+
+    <string id="temperature">Temperature</string>
+    
+    <string id="salinity">Salinity</string>
+
+    <string id="menu_label_1">Item 1</string>
+    <string id="menu_label_2">Item 2</string>
+</strings>

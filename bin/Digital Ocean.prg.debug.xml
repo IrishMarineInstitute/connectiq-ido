@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\views\\SalinityView.mc" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\views\\SalinityView.mc" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\views\\SalinityView.mc" lineNum="10" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\views\\SalinityView.mc" lineNum="11" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\views\\SalinityView.mc" lineNum="17" pc="268435521" symbol="onShow"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\views\\SalinityView.mc" lineNum="21" pc="268435526" symbol="onUpdate"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\views\\SalinityView.mc" lineNum="23" pc="268435530" symbol="onUpdate"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\views\\SalinityView.mc" lineNum="29" pc="268435551" symbol="onHide"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanMenuDelegate.mc" lineNum="6" pc="268435556" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanMenuDelegate.mc" lineNum="7" pc="268435560" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanMenuDelegate.mc" lineNum="10" pc="268435579" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanMenuDelegate.mc" lineNum="11" pc="268435583" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanMenuDelegate.mc" lineNum="12" pc="268435594" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanMenuDelegate.mc" lineNum="13" pc="268435618" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanMenuDelegate.mc" lineNum="14" pc="268435629" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanView.mc" lineNum="5" pc="268435654" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanView.mc" lineNum="6" pc="268435658" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanView.mc" lineNum="10" pc="268435677" symbol="onLayout"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanView.mc" lineNum="11" pc="268435681" symbol="onLayout"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanView.mc" lineNum="17" pc="268435719" symbol="onShow"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanView.mc" lineNum="21" pc="268435724" symbol="onUpdate"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanView.mc" lineNum="23" pc="268435728" symbol="onUpdate"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanView.mc" lineNum="29" pc="268435749" symbol="onHide"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanDelegate.mc" lineNum="5" pc="268435754" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanDelegate.mc" lineNum="6" pc="268435758" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanDelegate.mc" lineNum="9" pc="268435777" symbol="onMenu"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanDelegate.mc" lineNum="10" pc="268435781" symbol="onMenu"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanDelegate.mc" lineNum="11" pc="268435865" symbol="onMenu"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanDelegate.mc" lineNum="14" pc="268435869" symbol="onNextPage"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanDelegate.mc" lineNum="15" pc="268435873" symbol="onNextPage"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanDelegate.mc" lineNum="16" pc="268435897" symbol="onNextPage"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanDelegate.mc" lineNum="17" pc="268435921" symbol="onNextPage"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanDelegate.mc" lineNum="18" pc="268435953" symbol="onNextPage"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanApp.mc" lineNum="7" pc="268435957" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanApp.mc" lineNum="8" pc="268435961" symbol="initialize"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanApp.mc" lineNum="13" pc="268435980" symbol="onStart"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanApp.mc" lineNum="17" pc="268435985" symbol="onStop"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanApp.mc" lineNum="21" pc="268435990" symbol="getInitialView"/>
+<entry filename="C:\\Users\\aleadbetter\\eclipse-workspace\\Digital Ocean\\.\\source\\DigitalOceanApp.mc" lineNum="22" pc="268435994" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="16" pc="268436062" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268436066" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268436084" symbol="initialize"/>
+<entry filename="Rez" lineNum="19" pc="268436136" symbol="initialize"/>
+<entry filename="Rez" lineNum="35" pc="268436189" symbol="SalinityLayout"/>
+<entry filename="Rez" lineNum="39" pc="268436201" symbol="SalinityLayout"/>
+<entry filename="Rez" lineNum="40" pc="268436364" symbol="SalinityLayout"/>
+<entry filename="Rez" lineNum="41" pc="268436389" symbol="SalinityLayout"/>
+<entry filename="Rez" lineNum="42" pc="268436441" symbol="SalinityLayout"/>
+<entry filename="Rez" lineNum="43" pc="268436557" symbol="SalinityLayout"/>
+<entry filename="Rez" lineNum="46" pc="268436609" symbol="SalinityLayout"/>
+<entry filename="Rez" lineNum="55" pc="268436637" symbol="TemperatureLayout"/>
+<entry filename="Rez" lineNum="59" pc="268436649" symbol="TemperatureLayout"/>
+<entry filename="Rez" lineNum="60" pc="268436812" symbol="TemperatureLayout"/>
+<entry filename="Rez" lineNum="61" pc="268436837" symbol="TemperatureLayout"/>
+<entry filename="Rez" lineNum="62" pc="268436889" symbol="TemperatureLayout"/>
+<entry filename="Rez" lineNum="63" pc="268437005" symbol="TemperatureLayout"/>
+<entry filename="Rez" lineNum="66" pc="268437057" symbol="TemperatureLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="18" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="9" object="true" symbol="SalinityView"/>
+<entry id="11" object="true" symbol="DigitalOceanView"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="21" symbol="salinity"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="20" method="true" symbol="TemperatureLayout"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="24" symbol="AppName"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="8388962" symbol="temperature"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="26" symbol="item_2"/>
+<entry id="25" symbol="item_1"/>
+<entry field="true" id="17" symbol="LauncherIcon"/>
+<entry field="true" id="23" symbol="menu_label_2"/>
+<entry field="true" id="22" symbol="menu_label_1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="16" symbol="id_monkey"/>
+<entry id="13" object="true" symbol="DigitalOceanApp"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="19" method="true" symbol="SalinityLayout"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry id="8388642" module="true" symbol="Position"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry id="12" object="true" symbol="DigitalOceanDelegate"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="10" object="true" symbol="DigitalOceanMenuDelegate"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268435551" name="dc" stackId="1" startPc="268435526"/>
+<entry endPc="268435654" name="item" stackId="1" startPc="268435579"/>
+<entry endPc="268435719" name="dc" stackId="1" startPc="268435677"/>
+<entry endPc="268435749" name="dc" stackId="1" startPc="268435724"/>
+<entry endPc="268435956" name="view" stackId="1" startPc="268435873"/>
+<entry endPc="268435956" name="delegate" stackId="2" startPc="268435873"/>
+<entry endPc="268435985" name="state" stackId="1" startPc="268435980"/>
+<entry endPc="268435990" name="state" stackId="1" startPc="268435985"/>
+<entry endPc="268436636" name="rez_cmp_local_bitmap_8101KP4IZI_fontHeight" stackId="3" startPc="268436201"/>
+<entry endPc="268436636" name="rez_cmp_local_bitmap_8101KP4IZI" stackId="2" startPc="268436201"/>
+<entry endPc="268436636" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436201"/>
+<entry endPc="268436637" name="dc" stackId="1" startPc="268436189"/>
+<entry endPc="268437084" name="rez_cmp_local_bitmap_INGR0DSW9Q" stackId="2" startPc="268436649"/>
+<entry endPc="268437084" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436649"/>
+<entry endPc="268437084" name="rez_cmp_local_bitmap_INGR0DSW9Q_fontHeight" stackId="3" startPc="268436649"/>
+<entry endPc="268437085" name="dc" stackId="1" startPc="268436637"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="SalinityView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="SalinityView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="SalinityView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="SalinityView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="SalinityView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DigitalOceanMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="DigitalOceanMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DigitalOceanView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="DigitalOceanView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="DigitalOceanView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="DigitalOceanView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="DigitalOceanView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DigitalOceanDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="DigitalOceanDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="DigitalOceanDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DigitalOceanApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="DigitalOceanApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="DigitalOceanApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="DigitalOceanApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="SalinityLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="TemperatureLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="214" parentId="globals" symbolId="DigitalOceanApp" type="class"/>
+<dataEntry offset="285" parentId="globals" symbolId="DigitalOceanDelegate" type="class"/>
+<dataEntry offset="348" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="427" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="474" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="513" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="560" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="591" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="622" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="669" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="740" parentId="globals" symbolId="SalinityView" type="class"/>
+<dataEntry offset="819" parentId="globals" symbolId="DigitalOceanMenuDelegate" type="class"/>
+<dataEntry offset="874" parentId="globals" symbolId="DigitalOceanView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
